@@ -1,0 +1,20 @@
+[
+    {
+        "model": "amazonapi.order",
+        "pk": 1,
+        "fields": {
+            "customer_id": 1,
+            "date": "2023-07-10",
+            "closed": true
+        }
+    },
+    {
+        "model": "amazonapi.order",
+        "pk": 2,
+        "fields": {
+            "customer_id": 1,
+            "date": "2023-05-25",
+            "closed": true
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "model": "amazonapi.user",
+        "pk": 1,
+        "fields": {
+            "uid": 1,
+            "name": "Dede",
+            "bio": "Trying to find exotic products for good deals",
+            "image": "https://1drv.ms/i/s!AkT2WlhdROGUgSyk4ZW-_NkzWkJI?e=wJSM2v",
+            "isseller": false
+        }
+    },
+     {
+        "model": "amazonapi.user",
+        "pk": 2,
+        "fields": {
+            "uid": 2,
+            "name": "OG CJ",
+            "bio": "All The Deals",
+            "image": "https://cms.afrotech.com/wp-content/uploads/2021/04/unnamed-compress.png",
+            "isseller": true
+        }
+    },
+     {
+        "model": "amazonapi.user",
+        "pk": 3,
+        "fields": {
+            "uid": 3,
+            "name": "Michael",
+            "bio": "Usually buy things that i don't need or buy more than one of everything",
+            "image": "https://i.pinimg.com/736x/45/f4/f5/45f4f5d9a861b32a3e0a81047dc1f48f.jpg",
+            "isseller": true
+        }
+    }
+]

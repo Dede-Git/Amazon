@@ -1,0 +1,38 @@
+[
+    {
+        "model": "amazonapi.product",
+        "pk": 1,
+        "fields": {
+            "name": "off-brand shoes",
+            "description": "some fake jordans",
+            "quantity": 1,
+            "price": 20,
+            "seller_id": 2,
+            "image": "https://i0.wp.com/sneakerhistory.com/wp-content/uploads/2019/11/jordan-1-air-force.jpg?resize=695%2C641&ssl=1"
+        }
+    },
+    {
+        "model": "amazonapi.product",
+        "pk": 2,
+        "fields": {
+            "name": "gucci slides",
+            "description": "Gucci is to cheap for me now lol",
+            "quantity": 1,
+            "price": 250,
+            "seller_id": 3,
+            "image": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1508919310/503220_GIB10_1098_002_100_0000_Light-Childrens-rubber-slides-with-Web.jpg"
+        }
+    },
+    {
+        "model": "amazonapi.product",
+        "pk": 3,
+        "fields": {
+            "name": "Rolex",
+            "description": "bought 2 on accident lol",
+            "quantity": 1,
+            "price": 400,
+            "seller_id": 3,
+            "image": "https://cdn.thewatchpages.com/app/uploads/2023/04/28101041/rolex-oyster-perpetual-day-date-40-228238-0061-800x1460.jpeg?width=400"
+        }
+    }
+]
